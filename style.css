@@ -1,0 +1,133 @@
+body {
+	background-image: url(doska.png);
+}
+.logo {
+	height: 351px;
+	width: 525px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(kare.png);
+}
+.flex {
+	display: flex;
+}
+.jojo {
+	height: 700px;
+	width: 1400px;
+	margin-top: 70px;
+}
+.padik {
+	height: 100px;
+}
+.mamik {
+	height: 200px;
+	width: 1400px;
+}
+.usik {
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	margin-left: 540px;
+	border: 3px solid white; 
+	color: white;
+	margin-top: 30px;
+	width: 210px;
+	transition: 0.8s;	
+}
+.n {
+	padding-left: 30px;
+}
+.saske {
+	text-align: center;
+}
+.ese {
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+}
+.rusik {
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	margin-left: 30px;
+	border: 3px solid white; 
+	color: white;
+	margin-top: 30px;
+	width: 400px;
+	height: 1700px;
+}
+.mamt {
+	height: 200px;
+	width: 200px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	margin-left: 30px;
+	border: 1px solid white; 
+}
+.mamn {
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	margin-left: 30px;
+	border: 2px solid white; 
+	margin-top: 40px;
+	transition: 0.5s;
+}
+.sepa {
+	margin-left: 200px;
+}
+.cae {
+	margin-top: 1200px;
+	height: 700px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+}
+.mamn:hover {
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-right: 50px;
+	padding-top: 50px;
+	border: 2px solid white; 
+	margin-top: 40px;
+	opacity: 0.9;
+}
+.usik:hover {
+	padding-left: 40px;
+	padding-bottom: 40px;
+	padding-right: 40px;
+	padding-top: 40px;
+	margin-left: 540px;
+	border: 3px solid white; 
+	color: white;
+	margin-top: 30px;
+	width: 210px;
+	opacity: 0.8;
+}
+.sad {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	padding-top: 30px;
+	border: 1px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.7s;
+}
+.das {
+	height: 50px;
+	width: 50px;
+}
+.sad:hover {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-top: 30px;
+	opacity: 0.8;
+}
